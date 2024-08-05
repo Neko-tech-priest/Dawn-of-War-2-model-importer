@@ -1,0 +1,1 @@
+art/race_chaos/troops_wargear/armour/heretic_common/heretic.model
